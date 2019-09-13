@@ -1,3 +1,5 @@
+//Alexander Boozer
+//CPSC 327
 //myfunc.cpp
 #include "myfunc.h"
 
