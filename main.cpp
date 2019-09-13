@@ -10,8 +10,7 @@
 int main()
 {
 	int const SUCCESS = 0;
-	std::string h = func();
-	std::cout<< h <<std::endl;
+	std::cout<< func() <<std::endl;
 	return SUCCESS;
 }
 
